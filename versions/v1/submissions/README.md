@@ -3,3 +3,4 @@ Submission Details:
 - 1: Linear Regression
 - 2: Logistic Regression
 - 3: Naive Bayes
+- 4: kNN
