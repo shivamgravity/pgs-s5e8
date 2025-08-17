@@ -3,14 +3,15 @@ The dataset is taken from kaggle playground series season 5 episode 8.
 You can either download the dataset from [kaggle.com/competitions/playground-series-s5e8/data](https://www.kaggle.com/competitions/playground-series-s5e8/data) or run the setup file to download the files automatically.
 
 ## Preparation Before Executing Setup.py
-Before executing setup.py, you may need to install some dependencies.
-Following Python Libraries:
+Before executing setup.py, you may need to install following python libraries:
+
 - os
 - zipfile
 - time
 - threading
 - kaggle
 - tqdm
+
 Install all these libraries using pip command in cmd.
 Before that you need to setup **kaggle api** if you haven't already.
 
