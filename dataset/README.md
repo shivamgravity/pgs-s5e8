@@ -16,8 +16,8 @@ Before that you need to setup **kaggle api** if you haven't already.
 
 ### Kaggle API Setup
 Follow these steps to create your first *kaggle api*.
-1. Create a folder with name (**.kaggle**) in the directory (**C:/Users/<Your Nanme>**)
+1. Create a folder with name (**.kaggle**) in the directory (**C:/Users/Your Nanme**)
 2. Go to the **settings** page on your kaggle account and scroll to **API** section
-3. Click *Create New Token* and save the kaggle.json file in the same folder you created in step 1 - it will look like C:/Users/<Your Name>/.kaggle/kaggle.json
+3. Click *Create New Token* and save the kaggle.json file in the same folder you created in step 1 - it will look like C:/Users/Your Name/.kaggle/kaggle.json
 
 Now you are ready to run the <ins>setup.py</ins> file.
