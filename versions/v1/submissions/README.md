@@ -7,5 +7,6 @@ Submission Details:
 | 3 | Naive Bayes | 0.83313 |
 | 4 | kNN (n=5) | 0.85647 |
 | 5 | kNN (n=7) | 0.86345 |
+| 6 | kNN (n=9) | 0.86776 |
 
 *LB score: Leaderboard score*
