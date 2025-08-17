@@ -6,5 +6,6 @@ Submission Details:
 | 2 | Logistic Regression | 0.86774 |
 | 3 | Naive Bayes | 0.83313 |
 | 4 | kNN (n=5) | 0.85647 |
+| 5 | kNN (n=7) | 0.86345 |
 
 *LB score: Leaderboard score*
