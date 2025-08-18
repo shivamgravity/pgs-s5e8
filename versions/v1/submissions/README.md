@@ -10,5 +10,7 @@ Submission Details:
 | 6 | kNN (n=9) | 0.86776 |
 | 7 | kNN (n=11) | 0.87081 |
 | 8 | kNN (n=13) | 0.87326 |
+| 9 | kNN (n=15) | 0.87557 |
+| 10 | Decison Tree | 0.79835 |
 
 *LB score: Leaderboard score*
