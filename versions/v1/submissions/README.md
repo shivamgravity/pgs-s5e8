@@ -9,5 +9,6 @@ Submission Details:
 | 5 | kNN (n=7) | 0.86345 |
 | 6 | kNN (n=9) | 0.86776 |
 | 7 | kNN (n=11) | 0.87081 |
+| 8 | kNN (n=13) | 0.87326 |
 
 *LB score: Leaderboard score*
