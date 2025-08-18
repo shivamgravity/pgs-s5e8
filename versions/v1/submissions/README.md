@@ -13,5 +13,6 @@ Submission Details:
 | 9 | kNN (n=15) | 0.87557 |
 | 10 | Decison Tree | 0.79835 |
 | 12 | XG Boost | 0.87023 |
+| 13 | Cat Boost | 0.89130 |
 
 *LB score: Leaderboard score*
