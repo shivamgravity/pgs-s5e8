@@ -15,5 +15,6 @@ Submission Details:
 | 11 | Threshold Otsu | 0.87628 |
 | 12 | XG Boost | 0.87023 |
 | 13 | Cat Boost | 0.89130 |
+| 14 | Light GBM | 0.86939 |
 
 *LB score: Leaderboard score*
