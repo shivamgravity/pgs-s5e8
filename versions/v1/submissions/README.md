@@ -16,5 +16,6 @@ Submission Details:
 | 12 | XG Boost | 0.87023 |
 | 13 | Cat Boost | 0.89130 |
 | 14 | Light GBM | 0.86939 |
+| 15 | MLP 01 | 0.89330 |
 
 *LB score: Leaderboard score*
