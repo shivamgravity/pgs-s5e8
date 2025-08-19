@@ -12,7 +12,7 @@ Submission Details:
 | 8 | kNN (n=13) | 0.87326 |
 | 9 | kNN (n=15) | 0.87557 |
 | 10 | Decison Tree | 0.79835 |
-| 11 | Threshold Otsu | --- |
+| 11 | Threshold Otsu | 0.87628 |
 | 12 | XG Boost | 0.87023 |
 | 13 | Cat Boost | 0.89130 |
 
